@@ -1,0 +1,12 @@
+E->TA
+A->+TA
+T->FB
+B->*FB
+F->(E)
+E->T
+A->+T
+A->e
+T->F
+B->*F
+B->e
+F->i

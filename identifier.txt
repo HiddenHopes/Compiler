@@ -1,0 +1,10 @@
+_abc
+ab c
+8abc
+a8bc
+__abc
+_8abc
+int
+char
+double
+ab^c
